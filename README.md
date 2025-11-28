@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Md. Ariful
+  Hi, I'm Ariful Islam
 </h1>
 <h3 align="center">Junior Python Developer | Learning Django & Backend Development</h3>
 
