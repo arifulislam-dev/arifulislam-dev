@@ -63,8 +63,8 @@ I am currently learning **Django**, improving my understanding of backend develo
 ---
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/dev-arifulislam/
-- Email: dev.mdarifulislam@gmail.com
+- LinkedIn: https://www.linkedin.com/in/djangowitharif/
+- Email: arif@thevowtech.com
 
 ---
 
