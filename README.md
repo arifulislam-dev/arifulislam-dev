@@ -4,8 +4,8 @@
 <h3 align="center">Junior Python Developer | Learning Django & Backend Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/djangowitharif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arif@thevowtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arifulislamb2b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto: arif @ thevowtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -63,8 +63,8 @@ I am currently learning **Django**, improving my understanding of backend develo
 ---
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/djangowitharif/
-- Email: arif@thevowtech.com
+- LinkedIn: https://www.linkedin.com/in/arifulislamb2b/
+- Email: arif @ thevowtech.com
 
 ---
 
